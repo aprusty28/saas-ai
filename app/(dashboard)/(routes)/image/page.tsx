@@ -1,6 +1,6 @@
 "use client";
 
-import * as z from "Zod";
+import * as z from "zod";
 import Heading from "@/components/heading";
 import { Download, ImageIcon } from "lucide-react";
 import { useForm } from "react-hook-form";
